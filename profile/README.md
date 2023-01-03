@@ -1,3 +1,14 @@
+# Announcements - Kick Off Call
+Patcepta will hold a Kick Off Call on January 26, 2023 at 1:30PM PST.
+
+Invitation Details and Link Below:
+Patcepta Kick Off Meeting 
+Thursday, January 26 · 1:30 – 2:30pm
+Google Meet joining info
+https://rb.gy/6ehbo8
+Video call link: https://meet.google.com/sgy-dtib-kqj
+Or dial: ‪(US) +1 573-343-8161‬ PIN: ‪590 526 894‬#
+
 # Overview
 
 Patcepta is a new open source rules engine for improving patent prosecution and management through automation.  Any interested party can join to help foster a new generation of IP management practices using open source software.

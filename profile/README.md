@@ -1,5 +1,5 @@
 # Announcements - Kick Off Call
-Patcepta will hold a Kick Off Call on January 26, 2023 at 1:30PM PST.
+Patcepta will hold a Kick Off Call on February 9, 2023 at 10AM PST.
 
 Invitation Details and Link Below:
 Patcepta Kick Off Meeting 
